@@ -12,7 +12,6 @@ function set_language($lang_code = 'id') {
     }
 }
 
-
 if (isset($_GET['lang'])) {
     $lang_code = $_GET['lang'];
     $lang = set_language($lang_code);
@@ -20,5 +19,10 @@ if (isset($_GET['lang'])) {
     $lang = set_language($_SESSION['lang']);
 } else {
     $lang = set_language('id');
+}
+
+function lang($key) {
+    global $lang;
+    return isset($lang[$key]) ? $lang[$key] : $key;
 }
 ?>
