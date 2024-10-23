@@ -33,5 +33,23 @@ $lang = array(
     "akreditasi" => "Akreditasi",
     "news_information" => "Informasi",
     "news_latest" => "Berita Terbaru",
+    "head_office" => "Kantor Pusat",
+    "p3tk" => "P3TK",
+    "plpsi" => "PLPSI",
+    "phmk" => "PHMK",
+    "pkpio" => "PKPIO",
+    "perpustakaan" => "Perpustakaan",
+    "lembaga_badan" => "Lembaga & Badan",
+    "penelitian_pengabdian" => "Penelitian & Pengabdian",
+    "badan_penjamin_mutu" => "Badan Penjamin Mutu",
+    "biro" => "Biro",
+    "biro_administrasi_akademik" => "Biro Administrasi Akademik",
+    "biro_administrasi_sdm" => "Biro Administrasi SDM",
+    "contact_info" => "Informasi Kontak",
+    "address" => "Jl. ZA Pagar Alam No. 7, Bandar Lampung, Indonesia",
+    "phone" => "Telepon",
+    "email" => "Email",
+    "secondary_email" => "Email Sekunder",
+    "search_placeholder" => "Cari..."
 );
 ?>

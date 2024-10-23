@@ -33,5 +33,23 @@ $lang = array(
     "akreditasi" => "Accreditation",
     "news_information" => "Information",
     "news_latest" => "Latest News",
+    "head_office" => "Head Office",
+    "p3tk" => "P3TK",
+    "plpsi" => "PLPSI",
+    "phmk" => "PHMK",
+    "pkpio" => "PKPIO",
+    "perpustakaan" => "Library",
+    "lembaga_badan" => "Institutes & Bodies",
+    "penelitian_pengabdian" => "Research & Community Service",
+    "badan_penjamin_mutu" => "Quality Assurance Body",
+    "biro" => "Bureaus",
+    "biro_administrasi_akademik" => "Academic Administration Bureau",
+    "biro_administrasi_sdm" => "Human Resource Administration Bureau",
+    "contact_info" => "Contact Information",
+    "address" => "Jl. ZA Pagar Alam No. 7, Bandar Lampung, Indonesia",
+    "phone" => "Phone",
+    "email" => "Email",
+    "secondary_email" => "Secondary Email",
+    "search_placeholder" => "Search..."
 );
 ?>
